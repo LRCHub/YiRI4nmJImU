@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "はりあっぷ！",
+  "base_artist": "▷ せーぶぽいんと",
+  "createdAt": "2026-02-16T12:33:40.831800Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "はりあっぷ!",
+      "artist": "▷ せーぶぽいんと",
+      "has_synced": false,
+      "path": "select/pl_01_はりあっぷ!_▷_せーぶぽいんと.txt"
+    }
+  ]
+}
